@@ -18,7 +18,8 @@ Alternatively, you can also install the app manually on Windows 10 (version 1903
 
 (2)	Install the program:
 
-	a. Double-click on the file "Tabulexa_xxx.msixbundle" in your file explorer. (If step 1 was successful, you should get "Trusted App" in the top left corner of the installer window.)
+	a. Double-click on the file "Tabulexa_xxx.msixbundle" in your file explorer. 
+	   (If step 1 was successful, you should get "Trusted App" in the top left corner of the installer window.)
 	b. Click "Install"
 	c. Select a folder for your presentation documents when the app runs for the first time.
 

@@ -3,6 +3,7 @@
 The app is available on the Microsoft app store at the following link, and we strongly recommend using the store for the installation process. 
 
 https://www.microsoft.com/store/apps/9MXZC8VJJ5W4
+https://github.com/tabulexa/tabulexa
 
 
 Alternatively, you can also install the app manually on Windows 10 (version 1903 or later) if you add the required certificate and use the msix-installer file. Terms and conditions are identical to the store installation. Please download the x86, x64, ARM, or ARM64 package and the corresponding certificate "Tabulexa_xxx.cer". 
